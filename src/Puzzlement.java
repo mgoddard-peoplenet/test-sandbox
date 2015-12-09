@@ -1,7 +1,7 @@
 public class Puzzlement {
 
-public static void main(String[] args) {
-	System.out.println("Huh?");
-}
+	public static void main(String[] args) {
+		System.out.println("Say Huh?");
+	}
 
 }
